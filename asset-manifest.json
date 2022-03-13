@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/coupon-validator-frontend.git/static/css/main.c8316768.css",
-    "main.js": "/coupon-validator-frontend.git/static/js/main.151d6d4e.js",
-    "index.html": "/coupon-validator-frontend.git/index.html",
-    "main.c8316768.css.map": "/coupon-validator-frontend.git/static/css/main.c8316768.css.map",
-    "main.151d6d4e.js.map": "/coupon-validator-frontend.git/static/js/main.151d6d4e.js.map"
+    "main.css": "/coupon-validator-frontend/static/css/main.c8316768.css",
+    "main.js": "/coupon-validator-frontend/static/js/main.151d6d4e.js",
+    "index.html": "/coupon-validator-frontend/index.html",
+    "main.c8316768.css.map": "/coupon-validator-frontend/static/css/main.c8316768.css.map",
+    "main.151d6d4e.js.map": "/coupon-validator-frontend/static/js/main.151d6d4e.js.map"
   },
   "entrypoints": [
     "static/css/main.c8316768.css",

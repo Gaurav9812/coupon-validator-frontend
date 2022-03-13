@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#validate-form {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+  align-items: center;
+}
+#validate-form label {
+  padding: 1rem;
+}
+
+#validate-form label input {
+  margin-left: 3rem;
+  padding: 0.2rem;
+}
+#validate-form > input {
+  padding: 0.5rem 2rem;
+}
+#create-coupon-form {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+#create-coupon-form form {
+  display: flex;
+  width: 23%;
+
+  justify-content: space-around;
+  flex-direction: column;
+}
+#create-coupon-form form label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+#create-coupon-form form label input {
+  padding: 0.3rem;
+}
+#Coupons {
+  display: flex;
+  flex-direction: column;
+}
+.btns {
+  margin-top: 3rem;
+}
+.btns > a button {
+  padding: 0.5rem;
+  border: 0;
+  font-weight: 800;
+  background: red;
+  cursor: pointer;
+  margin-right: 1rem;
+  color: white;
+}
+#home {
+  background-color: green;
+}
+#createCoupon {
+  background-color: #282c34;
+}

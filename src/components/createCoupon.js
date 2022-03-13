@@ -19,6 +19,7 @@ function CreateCoupon() {
       (name.value === "" ||
         code.value === "" ||
         min_amount.value === "" ||
+        start_date.value === "" ||
         end_date.value === "" ||
         type.value === "") &&
       (percentage.value === 0 || amount.value === 0)

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/coupon-validator-frontend/static/css/main.c8316768.css",
-    "main.js": "/coupon-validator-frontend/static/js/main.2b2a1628.js",
+    "main.js": "/coupon-validator-frontend/static/js/main.1b73b6ac.js",
     "index.html": "/coupon-validator-frontend/index.html",
     "main.c8316768.css.map": "/coupon-validator-frontend/static/css/main.c8316768.css.map",
-    "main.2b2a1628.js.map": "/coupon-validator-frontend/static/js/main.2b2a1628.js.map"
+    "main.1b73b6ac.js.map": "/coupon-validator-frontend/static/js/main.1b73b6ac.js.map"
   },
   "entrypoints": [
     "static/css/main.c8316768.css",
-    "static/js/main.2b2a1628.js"
+    "static/js/main.1b73b6ac.js"
   ]
 }
